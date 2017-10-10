@@ -19,5 +19,9 @@
   "devDependencies": {
     "electron": "^1.6.8",
     "menubar": "^5.2.3"
+  },
+  "dependencies": {
+    "electron-connect": "^0.6.2",
+    "gulp": "^3.9.1"
   }
 }
